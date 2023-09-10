@@ -8,7 +8,7 @@
 ![验证2 0](https://github.com/qiu-xiaoqi/SLfM_Project/assets/119273966/30601327-857f-4b6a-ab13-4b91bfbd9ebf)
 
 ### 模型文件
-
+https://www.aliyundrive.com/s/3TMrHmz9guf 提取码：wf9c
 ### Citation
 ~~~
 @inproceedings{
